@@ -1,2 +1,2 @@
 # hello_World
-First repo for class
+First repo, now with some notation
